@@ -1,4 +1,4 @@
-#Вступ
+# Вступ
 
 
 
@@ -13,18 +13,19 @@
 
 
 
-*Инсталювання Selenium 
+# Инсталювання Selenium 
+
 Використовуйте pip для встановлення пакету Selenium . Python 3 має pip, доступний у стандартній бібліотеці.
 Використовуючи pip, ви можете встановити Selenium  таким чином:
 
-1. Відкрити cmd
+* Відкрити cmd
 
-2. Написати наступну команду 
+* Написати наступну команду 
     
     pip install selenium
    
    
-3. Також бажанно оновити pip командою 
+* Також бажанно оновити pip командою 
 
     python -m pip install --upgrade pip
    
@@ -38,10 +39,16 @@ selenium.common.exceptions.WebDriverException: Message: ‘geckodriver’ execut
 
 Інші підтримувані браузери матимуть власні драйвери. Далі посилаються на деякі найпопулярніші драйвери браузера.
 
-Chrome:	https://sites.google.com/a/chromium.org/chromedriver/downloads
-Edge:	https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
-Firefox:	https://github.com/mozilla/geckodriver/releases
-Safari:	https://webkit.org/blog/6900/webdriver-support-in-safari-10/
+-Chrome:	https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+
+-Edge:	https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
+
+-Firefox:	https://github.com/mozilla/geckodriver/releases
+
+
+-Safari:	https://webkit.org/blog/6900/webdriver-support-in-safari-10/
 
 
 
